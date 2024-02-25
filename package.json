@@ -1,0 +1,18 @@
+{
+  "name": "mongodbapi",
+  "version": "1.0.0",
+  "description": "this is my rest full application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Shivanshu Panwar",
+  "license": "ISC",
+  "dependencies": {
+    "compass": "^0.1.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^6.10.0",
+    "mongosh": "^0.0.1"
+  }
+}
